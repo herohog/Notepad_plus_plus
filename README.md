@@ -1,3 +1,2 @@
 # PigSty
-RFC: Add ability to drag and drop selected txt to an area above or below the currently viewed screen by simply moving the mouse to/past the screen border to cause the screen to scroll to the desired new area.
-Current work arounds require either keyboard input or “extra” mouse clicks instead of a simple drag and drop. This is something I do often so it popped up on my radar when I switched to Notepad++.
+Retired Sr Programmer/Analyst who started out as a Master Mechanic/Racer/Car & Bike Builder but was disabled in the US Navy and eventually couldn't work as a mechanic so went to college through the VA and became a computer geek just as home computers were becoming a "thing." I was also a gigging Blues/Funk/Classic rock drummer in my spare time for many years and worked as a Classic Rock FM Radio DJ for a year or so in my off hours. I finally got so bad physically that I was forced into retirement and now I live in my recliner surfing the web.
